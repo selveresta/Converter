@@ -1,0 +1,22 @@
+.mainContainer {
+	height: 100px;
+	display: flex;
+}
+
+.name {
+	font-size: 30px;
+	text-align: left;
+}
+
+.OneConverter {
+	font-size: 18px;
+}
+
+.OneConverter select {
+	width: 100px;
+}
+
+.OneConverter input {
+	height: 30px;
+	font-size: 16px;
+}
